@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=mcgregor-wm
+Comment=Extremely minimal window manager
+Exec=mcgregor-wm
+TryExec=mcgregor-wm
+Type=Application
+DesktopNames=mcgregor-wm
